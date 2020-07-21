@@ -1,4 +1,6 @@
 import math
+import sys
+
 
 """
 Prueba Desarrollador Python - OMNI.PRO
@@ -167,6 +169,7 @@ def main():
     print("A/B -> {}".format(division))
     print("Mod(A) -> {}".format(mod_a))
     print("Mod(B) -> {}".format(mod_b))
+    sys.exit()
 
 
 

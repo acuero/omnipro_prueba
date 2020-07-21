@@ -116,6 +116,7 @@ def main():
     
     print("orden_palabras: Fin del proceso.")
     print("orden_palabras: Los resultados los podrá ver en el archivo: {}".format(archivo_final))
+    sys.exit()
 
 
 

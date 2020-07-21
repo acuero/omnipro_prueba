@@ -1,5 +1,4 @@
 from datetime import datetime
-import pkg_resources
 import argparse
 import os
 import sys
